@@ -136,9 +136,9 @@ Name:  cart.cpp
 *  How to build and run the program
 *******************************************************
 
-1. Uncompress the homework.  The homework file is compressed.  
+1. Uncompress the file.
    To uncompress it use the following commands 
-       % unzip [HW6]
+       % unzip [file_Name]
 
    Now you should see a directory named homework with the files:
         main.cpp
@@ -167,7 +167,7 @@ Name:  cart.cpp
 3. Build the program.
 
     Change to the directory that contains the file by:
-    % cd [HW6] 
+    % cd [file_name] 
 
     Compile the program by:
     % make
