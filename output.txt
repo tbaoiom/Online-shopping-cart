@@ -1,0 +1,50 @@
+
+[Product Details]
+
+[Music]
+Product ID: 2
+Product Name: Righteous Minds
+Price: $10.7
+Product Review Rate: 6.2
+Singer: Joey Badass
+Genre: Rap
+ 
+[Music]
+Product ID: 3
+Product Name: Claire De Lune
+Price: $15.3
+Product Review Rate: 7.5
+Singer: Claude Debussy
+Genre: Classical
+ 
+[Movie]
+Product ID: 4
+Product Name: Interstellar
+Price: $23.99
+Product Review Rate: 8.6
+Director: Christopher Nolan
+Film Rating: PG-13
+Release Year: 2014
+Movie Length: 169
+ 
+[E-Book]
+Product ID: 6
+Product Name: Artemis Fowl
+Price: $7.99
+Product Review Rate: 9.2
+Author: Eoin Colfer
+Pages: 280
+ 
+[Game]
+Product ID: 7
+Product Name: Teamfight Tactics
+Price: $0
+Product Review Rate: 8.3
+Console: PC
+Version: 1
+ 
+[Summary of Purchase for Tai's Cart]
+Total number of purchases: 5
+Total cost: $57.98
+Average cost: $11.596
+
